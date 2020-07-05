@@ -1,5 +1,5 @@
 # Hello!!
-My name is Veneet J Kalloor and I am an Analytical Thinker.
+I am a quantitative researcher with experience in development sector.
 1. If you want to say hello, you can [email me](mailto:veneetj@gmail.com).
 2. If you want to know me professionally find me on [LinkedIn](https://www.linkedin.com/in/veneetjkalloor/).
 
