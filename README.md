@@ -1,7 +1,10 @@
 # Hello!!
 I am a quantitative researcher with experience in development sector.
 1. If you want to say hello, you can [email me](mailto:veneetj@gmail.com).
-2. If you want to know me professionally find me on [LinkedIn](https://www.linkedin.com/in/veneetjkalloor/).
+2. If you want to know me professionally, find me on [LinkedIn](https://www.linkedin.com/in/veneetjkalloor/).
+
+- **Articles I've written:**
+    - [A Solution for Inclusive Digital Financial Inclusion](https://medium.com/@veneetj/a-solution-for-inclusive-digital-financial-inclusion-fdbfb403d6d4)
 
 - **Work reports I've authored:**
     - [Inclusive Growth and the Informal Food Sector in Bangalore, India](https://hungrycities.net/wp-content/uploads/2020/04/HCP20.pdf)
